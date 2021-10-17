@@ -12,16 +12,16 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb;
+  color: #f9c243;
 }
 
 h2 {
   font-size: 2rem;
-  color: #e2dbdb;
+  color: #f9c243;
 }
 
 hr {
-  border-color: #F05F44;
+  border-color: #65098ab0;
   border-width: 3px;
   max-width: 65px;
 }
@@ -37,13 +37,13 @@ hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: #65098ab0;
+  border-color: #65098ab0;
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #65098a;
+  border-color: #65098a;
   border-width: 4px;
 }
 
